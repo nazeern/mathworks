@@ -1,6 +1,6 @@
 # moody_math
 The Python code that helped develop our data model for the deployment of electric semi trucks using specialized state transition matrices. We won a national award at the 2020 Mathworks Math Modeling Competition.
-The data model and report
+The data model and report can be found at [this link](https://docs.google.com/document/d/1AGMDaT9xvjpPF_8aCG8fr8dqplwsVkhIE9sYMEf-9gg/edit?usp=sharing).
 
 ## Summary:
 This program was developed to advise truck manufacturers by predicting the demand for electric semi trucks. 
